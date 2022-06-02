@@ -14,7 +14,7 @@ url = 'https://web.whatsapp.com/send?phone=' + "+91"+str(excel_data['Contact'][c
 #url = 'https://web.whatsapp.com/send?phone=' + "+91"+str(excel_data['Contact'][count]) + '&text=' + excel_data['Message'][0]
 
 
-2> [add mobile numbers numbers list in Recipients data.xlsx]
+2> [add mobile numbers numbers list in Recipients data.xlsx  without adding +91]
 
 # how to run this script
 
